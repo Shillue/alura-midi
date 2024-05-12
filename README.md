@@ -1,2 +1,5 @@
 # alura-midi
- Desenvolvido no Curso de JavaScript para Web - Crie páginas dinâmicas
+ Desenvolvido durante o Curso de JavaScript para Web - Crie páginas dinâmicas
+
+# Pré-visualização
+
